@@ -1,0 +1,4 @@
+interface:
+  display_name: "AnchorBrowser CLI"
+  short_description: "Run web tasks with AnchorBrowser CLI"
+  default_prompt: "Use $anchorbrowser-cli to automate browsing tasks with anchorbrowser proxy commands."
